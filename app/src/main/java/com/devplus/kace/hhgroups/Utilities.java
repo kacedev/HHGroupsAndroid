@@ -6,8 +6,8 @@ import android.support.v7.app.AlertDialog;
 
 final class Utilities {
 
-    private static String[] albumCategories = new String[] {"Destacados", "Instrumentales", "Recientes", "Puntos"};
-    private static String[] basesCategories = new String[] {"Destacados", "Uso libre", "Recientes", "Puntos"};
+    private static String[] albumCategories = new String[] {"Destacados", "Recientes", "Puntos", "Instrumentales"};
+    private static String[] basesCategories = new String[] {"Destacados", "Recientes", "Puntos", "Uso libre"};
     private static String[] temasCategories = new String[] {"Destacados", "Recientes", "Puntos"};
     static String[] searchSections = new String[] {"Álbumes", "Bases", "Temas"};
 
