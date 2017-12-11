@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7d7d7d</color>
+    <color name="colorPrimaryDark">#464646</color>
+    <color name="colorAccent">#b2dfdb</color>
+    <color name="colorText">#FFF</color>
+    <color name="colorDrawerBackground">#D7D7D7</color>
+    <color name="colorAppBackground">#EBEBEB</color>
+    <color name="colorAlbumBox">#c87d7d7d</color>
+    <color name="colorItemBackground">#64ffffff</color>
+</resources>

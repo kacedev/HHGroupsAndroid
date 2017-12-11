@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HHGroups</string>
+
+    <string name="title_activity_hhg">HHGActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="logodesc">Logo de HHGroups</string>
+
+
+    <string name="retry">Reintentar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="playertitleoff">Nada sonando</string>
+    <string name="playersuboff">¿Por qué no escuchas algo?</string>
+
+    <string name="proximamente">Próximamente</string>
+    <string name="temas">Temas</string>
+    <string name="bases">Instrumentales</string>
+    <string name="buscar">Buscar</string>
+    <string name="albumes">Álbumes</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="favoritos">Favoritos</string>
+
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+
+
+</resources>
